@@ -1,5 +1,5 @@
 # CS4287 Assignment 1: MLP/ CNN
-- Perform  classificationusinga MuiltLayer  Perceptron  (MLP) OR  one  of  the  earlier Convolutional Neural Networks (CNNs) –AlexNet, Inception, VGGNet, and ResNet.
+- Perform  classification using a MuiltLayer Perceptron (MLP) OR one of the earlier Convolutional Neural Networks (CNNs) –AlexNet, Inception, VGGNet, and ResNet.
 - Explore the impact of varying hyperparameter(s).
 
 ## Authored by:
